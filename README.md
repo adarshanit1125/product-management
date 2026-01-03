@@ -1,4 +1,4 @@
-# Product Management App (Frontend Assignment)
+# Product Management
 
 A responsive React-based product management application built as part of a frontend interview assignment.  
 The application allows users to manage products entirely on the client side with no backend or API integration.
